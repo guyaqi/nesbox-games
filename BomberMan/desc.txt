@@ -1,0 +1,1 @@
+Use bombs to destroy enemies and find exits.
